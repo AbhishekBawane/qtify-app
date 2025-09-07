@@ -1,0 +1,28 @@
+.hero {
+  background-color:black;
+  height: 270px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+}
+
+.text {
+  max-width: 600px;
+}
+
+.text h1 {
+  color:white;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0 0 16px 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

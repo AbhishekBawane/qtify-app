@@ -1,0 +1,14 @@
+.navbar {
+  background-color:rgb(61, 230, 61);
+  height: 74px;
+  padding: 0px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button{
+   background-color: rgb(0, 0, 0);
+   color:green;
+   border-radius: 5px;
+}
